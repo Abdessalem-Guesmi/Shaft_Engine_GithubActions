@@ -1,0 +1,10 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 4] test cases in the current suite
+Test Method:		[test.Test1.test1]
+################################################################################################################################################
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210507-231203", Target File: "\1620425544298_test1.gif"]. @07-05-2021 23:12:24.0360 PM
+[ReportManager] Element Action [type] successfully performed. With the following test data [Test0]. @07-05-2021 23:12:24.0950 PM
+[ReportManager] Element Action [click] successfully performed. With the following test data [Recherche Google]. @07-05-2021 23:12:32.0381 PM
+[ReportManager] Successfully created attachment [Video Recording - test1] @07-05-2021 23:12:37.0114 PM
+[ReportManager] Successfully created attachment [Animated Gif - test1] @07-05-2021 23:12:37.0184 PM
