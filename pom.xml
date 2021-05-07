@@ -59,6 +59,7 @@
 					</dependency>
 				</dependencies>
 				<configuration>
+					<testFailureIgnore>true</testFailureIgnore>
 					<failIfNoSpecifiedTests>false</failIfNoSpecifiedTests>
 					<failIfNoTests>false</failIfNoTests>
 					<encoding>UTF-8</encoding>
